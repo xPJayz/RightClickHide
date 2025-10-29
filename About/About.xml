@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Right Click Hide UI</name>
-    <author>Your Name</author>
+    <n>Right Click Hide UI</n>
+    <author>PJay</author>
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
-    <packageId>yourusername.rightclickhide</packageId>
+    <packageId>pjay.rightclickhide</packageId>
     <description>A simple mod that lets you right-click to toggle the UI visibility, including the bottom bar, architect menu, and overlay toggles.</description>
     <modDependencies>
         <li>
