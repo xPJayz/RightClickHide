@@ -1,0 +1,31 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Build outputs
+/Assemblies/
+/bin/
+/obj/
+
+# Temp files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Backup files
+*.bak
+*.orig
+*~
