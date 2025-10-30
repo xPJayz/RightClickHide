@@ -1,0 +1,14 @@
+// Template for SteamCMD workshop_build
+// Fill values or let the upload script create this automatically.
+
+"workshopitem"
+{
+    "appid" "294100"
+    "contentroot" "C:\\Path\\To\\RightClickHide_Workshop"
+    "previewfile" "C:\\Path\\To\\RightClickHide_Workshop\\About\\preview.png"
+    "title" "Right Click Hide UI"
+    "description" "A simple mod that lets you right-click to toggle UI visibility."
+    "changenote" "Initial upload / update"
+    // If updating existing item, add:
+    // "workshopitemid" "123456789"
+}
